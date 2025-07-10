@@ -1,4 +1,4 @@
-# AI Accelerator Program [Paid Course]
+# AI Accelerator Program 
 
 - 📄 [Day 1 – Prompt Engineering & Local LLMs](docs/day1.md)
 - 📄 [Day 2 – Voice AI Agent Development Using VAPI](docs/day2.md)
